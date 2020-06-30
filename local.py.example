@@ -1,0 +1,5 @@
+local_params = {
+    "telegram_key": "",
+    "database_username": "root",
+    "database_password": "root",
+}
